@@ -1,0 +1,9 @@
+{
+    "meta": {
+      "domain": "02 Finance",
+      "tab_name": "Expense Breakdown",
+      "url": "https://dl.ya.cloud/finance?tab=exp001",
+      "number_of_views": 112
+    },
+    "md": "## About this tab:\nDomain: 02 Finance\nTab Name: Expense Breakdown\nURL: https://dl.ya.cloud/finance?tab=exp001\nNumber of views: 112\nPath: 02 Finance / Expenses / Expense Breakdown\nShort description: Dashboard showing operational and capital expenses across departments.\nText elements: Highlights departments with over-budget spending.\nFilters: Date, Department, Expense Type\n\n## About charts on the tab:\n### Piechart Expense Share by Department\nDescription: Expense, distribution across departments\nFields:\n  - colors:\n    - department (DIMENSION)\n  - section_y:\n    - expense_amount (MEASURE)\n\n### Linechart Cumulative Expenses Over Time\nDescription: Trends, in monthly cumulative expenses\nFields:\n  - colors:\n    - expense_type (DIMENSION)\n  - section_y:\n    - cumulative_expense (MEASURE)\n  - section_x:\n    - month (DIMENSION)"
+}

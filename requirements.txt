@@ -1,0 +1,8 @@
+click
+langchain
+langchain_community
+langchain_huggingface
+sentence-transformers
+transformers
+faiss-cpu
+langchain-openai

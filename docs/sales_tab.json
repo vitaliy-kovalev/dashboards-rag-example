@@ -1,0 +1,9 @@
+{
+    "meta": {
+      "domain": "01 Sales",
+      "tab_name": "Regional Dynamics",
+      "url": "https://dl.ya.cloud/abc?tab=100",
+      "number_of_views": 278
+    },
+    "md": "## About this tab:\nDomain: 01 Sales\nTab Name: Regional Dynamics\nURL: https://dl.ya.cloud/abc?tab=100\nNumber of views: 278\nPath: 01 Sales / Regional Performance / Regional Dynamics\nShort description: Tracks sales metrics by region over time, including total revenue, number of orders, average check, and conversion rates. Highlights differences across territories, seasonal fluctuations, and potential anomalies. Designed to help sales managers monitor KPIs, identify underperforming areas, and adjust resource allocation accordingly. Enables data-driven decision-making and trend analysis across custom time ranges.\nText elements: Shows changes in revenue, average check, and conversion by key markets.\nFilters: Date, Region, Product Category\n\n## About charts on the tab:\n### Linechart Revenue by Region\nDescription: Revenue trends split by geographic area\nFields:\n  - colors:\n    - region (DIMENSION)\n  - section_y:\n    - revenue (MEASURE)\n  - section_x:\n    - sales_date (DIMENSION)\n\n### Table Details by Region\nDescription: Comparison of average transaction size\nFields:\n  - section_columns:\n    - region (DIMENSION)\n    - city (DIMENSION)\n    - postcode (DIMENSION)\n    - category (DIMENSION)\n    - sub-category (DIMENSION)\n    - product (DIMENSION)\n    - product_id (DIMENSION)\n    - customer_id (DIMENSION)\n    - customer_name (DIMENSION)\n    - customer_group (DIMENSION)\n    - customer_iban (DIMENSION)\n    - shipment_date (DIMENSION)\n    - order_date (DIMENSION)\n    - taxes (MEASURE)\n    - quantity (MEASURE)\n    - gmv (MEASURE)\n    - gmv_w_tax (MEASURE)\n    - discount (MEASURE)\n    - profit (MEASURE)\n    - avg_check (MEASURE)\n    - sales (MEASURE)"
+}

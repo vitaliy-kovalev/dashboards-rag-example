@@ -1,0 +1,9 @@
+{
+    "meta": {
+      "domain": "03 Logistics",
+      "tab_name": "Delivery Efficiency",
+      "url": "https://dl.ya.cloud/logi?tab=deliv3",
+      "number_of_views": 89
+    },
+    "md": "## About this tab:\nDomain: 03 Logistics\nTab Name: Delivery Efficiency\nURL: https://dl.ya.cloud/logi?tab=deliv3\nNumber of views: 89\nPath: 03 Logistics / Efficiency / Delivery Efficiency\nShort description: Evaluates delivery speed, success rate, and delay distribution across hubs.\nText elements: Includes average delay commentary and failure reason breakdown.\nFilters: Date, Delivery Hub, Transport Type\n\n## About charts on the tab:\n### Histogram Delivery Delays\nDescription: Distribution of delivery delays (in hours)\nFields:\n  - section_y:\n    - delay_count (MEASURE)\n  - section_x:\n    - delay_hours (DIMENSION)\n\n### Barchart On-Time Delivery Rate by Hub\nDescription: Success rate per logistics hub\nFields:\n  - colors:\n    - hub_name (DIMENSION)\n  - section_y:\n    - on_time_rate (MEASURE)\n  - section_x:\n    - hub_name (DIMENSION)"
+}
