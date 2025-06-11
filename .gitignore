@@ -4,3 +4,4 @@ rag/
 .gitattributes
 .idea/
 __pycache__
+.gitignore
