@@ -1,3 +1,6 @@
 dashboards-rag-example-venv/
 rag/
 .env
+.gitattributes
+.idea/
+__pycache__
