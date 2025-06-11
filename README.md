@@ -1,5 +1,5 @@
 ### What is it?
-It's a simple CLI implementation of RAG to search through reports. It's made to support this Medium article:
+It's a simple CLI implementation of RAG to search through reports. It's made to support this [Medium article](https://medium.com/@vitaliy.kovalev/how-to-apply-rag-and-llm-to-search-bi-reports-faster-2642d429aa7d).
 
 ### Project structure and steps:
 ```text
